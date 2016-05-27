@@ -28,7 +28,8 @@ function preload() {
 }
 
 function setup() {
-    createCanvas(1000, 600);
+    var canvas = createCanvas(1000, 600);
+    canvas.parent("canvasContainer");
     startCenterX = width / 2 - 5;
     startCenterY = 472;
 
@@ -91,7 +92,7 @@ function drawPlaying() {
 function drawEnd() {
     textSize(50);
     textAlign(LEFT);
-    
+
     if(score >=50){
         background (255, 0, 126);
         image(fatgigi, width - 500, 0,height, height);
@@ -108,7 +109,7 @@ function drawEnd() {
         text("SORRY GIRL, GIGI'S STILL \nIN THE FASHION SQUAD!\nTry again?", 30, 50);
         text("YES", 30, 300, width, 50);
         text("Total fat level: " + score, 30, 450, width, 55);
-        
+
     }
 
 }
