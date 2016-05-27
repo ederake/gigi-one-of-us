@@ -28,7 +28,7 @@ function preload() {
 }
 
 function setup() {
-    createCanvas(windowWidth, windowHeight);
+    createCanvas(1000, 600);
     startCenterX = width / 2 - 5;
     startCenterY = 472;
 
