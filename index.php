@@ -27,6 +27,6 @@
 
     </p>
     <p>Hello! This is "Gigi, one of us." It's a game. </p> <p>
-      Your purpose is to make Gigi one of us (average beauty, no perfection, some fat around...). </p> <p>You have to move Gigi with left and right arrows and feed her with burgers. </p> <p>Beware of the Dulcolax pills: they make Gigi lose weight and stay beautiful and thin! </p> <p>This app is developed by <a href="http://www.addictivedesign.it">Addictive Design Studio</a> </p>
+      Your purpose is to make Gigi one of us (average beauty, no perfection, some fat around...). </p> <p>You have to move Gigi with left and right arrows and feed her with burgers. </p> <p>Beware of the Dulcolax pills: they make Gigi lose weight and stay beautiful and thin! </p> <p>This app is developed by <a href="http://www.addictivedesign.it" target="_blank">Addictive Design Studio</a> </p>
   </body>
 </html>
